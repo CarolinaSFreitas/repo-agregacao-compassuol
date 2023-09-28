@@ -1,0 +1,9 @@
+[submodule "Atividade_PB_Compass"]
+	path = Atividade_PB_Compass
+	url = https://github.com/CarolinaSFreitas/Atividade_PB_Compass.git
+[submodule "Atividade2-Docker"]
+	path = Atividade2-Docker
+	url = https://github.com/CarolinaSFreitas/Atividade2-Docker.git
+[submodule "Projeto-Final-PB"]
+	path = Projeto-Final-PB
+	url = https://github.com/CarolinaSFreitas/Projeto-Final-PB.git
